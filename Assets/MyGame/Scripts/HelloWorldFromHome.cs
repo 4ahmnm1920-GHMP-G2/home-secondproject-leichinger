@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HelloWorld : MonoBehaviour
+public class HelloWorldFromHome : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hello World. Wie gehts dir");
+      Debug.Log("Hello From Home, \n Greetings leichinger"); 
     }
 
     // Update is called once per frame
